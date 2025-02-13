@@ -1,0 +1,25 @@
+.header {
+    background-color: #4CAF50;
+    color: white;
+    padding: 5px;
+    text-align: center;
+    font-size: 16px;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 10;
+}
+
+h1{
+    font-size: initial;
+}
+
+.header a {
+    color: white;
+    text-decoration: none;
+    margin: 0 15px;
+}
+
+.header a:hover {
+    text-decoration: underline;
+}
